@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+
+![Banner](https://raw.githubusercontent.com/Afroza-Nipa13/Afroza-Nipa13/main/download.jpg)
+
 <!--
 **Afroza-Nipa13/Afroza-Nipa13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
