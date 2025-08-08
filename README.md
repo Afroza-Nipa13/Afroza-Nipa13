@@ -23,7 +23,7 @@ I am a MERN Stack learner focused on building responsive and user-friendly appli
 
 **Social**
 [![GitHub](https://img.shields.io/badge/GitHub-Afroza-black?style=for-the-badge&logo=github)](https://github.com/Afroza-Nipa13)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Afroza-blue?style=for-the-badge&logo=linkedin)]([https://www.linkedin.com/in/LinkedIn_LINK](https://www.linkedin.com/in/afroza-nipa)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Afroza-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/afroza-nipa)
 [![Twitter](https://img.shields.io/badge/Twitter-@yourhandle-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/yourhandle)
 
 **GitHub Stats**
