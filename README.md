@@ -1,4 +1,4 @@
-![Banner](https://raw.githubusercontent.com/{{YOUR_USERNAME}}/{{YOUR_USERNAME}}/main/download.jpg
+![Banner](https://raw.githubusercontent.com/{{Afroza-Nipa13}}/{{Afroza-Nipa13}}/main/download.jpg
 )
 
 # Hi there 👋, I'm Afroza Akter (Nipa)
