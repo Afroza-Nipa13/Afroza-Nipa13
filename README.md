@@ -27,8 +27,8 @@ I am a MERN Stack learner focused on building responsive and user-friendly appli
 [![Twitter](https://img.shields.io/badge/Twitter-@yourhandle-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/yourhandle)
 
 **GitHub Stats**
-![{{YOUR_USERNAME}}'s GitHub stats](https://github-readme-stats.vercel.app/api?username={{YOUR_USERNAME}}&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username={{YOUR_USERNAME}}&layout=compact&theme=tokyonight)
+![Afroza-Nipa13's GitHub stats](https://github-readme-stats.vercel.app/api?username=Afroza-Nipa13&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Afroza-Nipa13&layout=compact&theme=tokyonight)
 
 ---
 ## 🔧 Pinned Projects
