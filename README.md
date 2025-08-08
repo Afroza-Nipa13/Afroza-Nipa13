@@ -20,8 +20,9 @@ I am a MERN Stack learner focused on building responsive and user-friendly appli
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
+
 **Social**
-[![GitHub](https://img.shields.io/badge/GitHub-Afroza-Nipa13-181717?style=for-the-badge&logo=github)](https://github.com/Afroza-Nipa13)
+[![GitHub](https://img.shields.io/badge/GitHub-Afroza-black?style=for-the-badge&logo=github)](https://github.com/Afroza-Nipa13)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Afroza-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/LinkedIn_LINK)
 [![Twitter](https://img.shields.io/badge/Twitter-@yourhandle-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/yourhandle)
 
