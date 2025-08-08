@@ -34,3 +34,17 @@ I am a MERN Stack learner focused on building responsive and user-friendly appli
 ## 🔧 Pinned Projects
 
 
+
+## 🌍 Zahaba Tours – A Tour Booking Platform
+
+![Screenshot of E-commerce site](https://raw.githubusercontent.com/Afroza-Nipa13/e-commerce-site/main/assets/screenshot.png)
+
+This project is a MERN stack e-commerce platform that allows users to browse products, add items to a cart, and complete a checkout process.
+
+**Technologies Used:**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+**Live Project Link:**
+[View Live Site](https://tour-booking-client.web.app/)
