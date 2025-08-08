@@ -1,5 +1,4 @@
-![Banner](https://raw.githubusercontent.com/{{Afroza-Nipa13}}/{{Afroza-Nipa13}}/main/download.jpg
-)
+![Banner]([https://raw.githubusercontent.com/{{Afroza-Nipa13}}/{{Afroza-Nipa13}}/main/download.jpg](https://github.com/Afroza-Nipa13/Afroza-Nipa13/blob/main/Mer.png)
 
 # Hi there 👋, I'm Afroza Akter (Nipa)
 **MERN Stack Developer | Building responsive web apps with React & Tailwind**
