@@ -38,7 +38,7 @@ I am a MERN Stack learner focused on building responsive and user-friendly appli
 ## 🌍 Zahaba Tours – A Tour Booking Platform
 
 
-![Screenshot of E-commerce site](https://raw.githubusercontent.com/Afroza-Nipa13/Afroza-Nipa13/main/screenshot-346.png)
+![web-site](https://raw.githubusercontent.com/Afroza-Nipa13/Afroza-Nipa13/main/screenshot-346.png)
 
 This project is a MERN stack e-commerce platform that allows users to browse products, add items to a cart, and complete a checkout process.
 
@@ -49,3 +49,39 @@ This project is a MERN stack e-commerce platform that allows users to browse pro
 
 **Live Project Link:**
 [View Live Site](https://tour-booking-client.web.app/)
+
+
+
+
+## FIRST Life Insurance Web App
+
+
+![web-site](https://raw.githubusercontent.com/Afroza-Nipa13/Afroza-Nipa13/main/screenshot-345.png)
+
+A secure, responsive, and modern MERN Stack-based life insurance web application that enables users to explore policies, get personalized quotes, apply for policies, manage their dashboard, and make payments online — all while maintaining proper user role access and control.
+
+**Technologies Used:**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+**Live Project Link:**
+[View Live Site]( https://last-assignment-project.web.app/)
+
+
+
+
+## 🌿 My Plant Diary
+
+
+![web-site](https://raw.githubusercontent.com/Afroza-Nipa13/Afroza-Nipa13/main/screenshot-347.png)
+
+A full-stack, mobile-responsive web application that helps plant lovers manage and monitor the care of their indoor and outdoor plants. From watering schedules to plant health, everything is trackable in one place!
+
+**Technologies Used:**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+**Live Project Link:**
+[View Live Site](https://thriving-granita-aca4e9.netlify.app/)
