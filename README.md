@@ -1,4 +1,5 @@
-![Banner](https://raw.githubusercontent.com/{{YOUR_USERNAME}}/{{YOUR_USERNAME}}/main/banner.png)
+![Banner](https://raw.githubusercontent.com/{{YOUR_USERNAME}}/{{YOUR_USERNAME}}/main/download.jpg
+)
 
 # Hi there 👋, I'm Afroza Akter (Nipa)
 **MERN Stack Developer | Building responsive web apps with React & Tailwind**
