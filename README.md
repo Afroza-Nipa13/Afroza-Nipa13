@@ -32,5 +32,5 @@ I am a MERN Stack learner focused on building responsive and user-friendly appli
 
 ---
 ## 🔧 Pinned Projects
-(Use the “Customize your pins” on your profile to add the repos you want)
+
 
