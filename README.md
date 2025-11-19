@@ -1,92 +1,68 @@
-![Your banner image](https://raw.githubusercontent.com/Afroza-Nipa13/Afroza-Nipa13/main/Mer.png)
+🌟 Hi there, I'm Afroza Akter (Nipa)
+MERN Stack Developer | Crafting Modern, Responsive Web Applications
+<img src="https://raw.githubusercontent.com/Afroza-Nipa13/Afroza-Nipa13/main/Mer.png" width="100%" />
+🚀 About Me
 
-# Hi there 👋, I'm Afroza Akter (Nipa)
-**MERN Stack Developer | Building responsive web apps with React & Tailwind**
+I'm a passionate MERN Stack Developer focused on building modern, responsive, and user-friendly web applications.
+I love exploring new technologies, improving UI/UX experience, and writing clean, scalable code.
 
-**About Me**
-I am a MERN Stack learner focused on building responsive and user-friendly applications. Currently learning advanced JavaScript, Firebase, and JWT authentication.
+🔭 Currently exploring Next.js & Server Components
 
-**Current activities**
-- 🔭 I am exploring Next.js.
-- 👩‍💻 I’m working on a tourism website.
-- 🌱 Learning deployment & JWT authentication.
+👩‍💻 Building a Tourism Booking Platform (Zahaba Tours)
 
-**Skills**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,tailwind,js,html,css,git,github,postman,netlify,vercel,linux,vscode&perline=11" />
-</p>
-<!-- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) -->
+🌱 Learning Deployment, JWT Authentication & Firebase
 
+💡 I enjoy solving real-world problems using the MERN stack
 
+🛠️ Tech & Tools
+<p align="center"> <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,tailwind,js,html,css,firebase,git,github,postman,vercel,netlify,linux,vscode&perline=12" /> </p>
+🌐 Connect With Me
+<p align="left"> <a href="https://github.com/Afroza-Nipa13"> <img src="https://img.shields.io/badge/GitHub-Afroza-black?style=for-the-badge&logo=github" /> </a> <a href="https://www.linkedin.com/in/afroza-nipa"> <img src="https://img.shields.io/badge/LinkedIn-Afroza-blue?style=for-the-badge&logo=linkedin" /> </a> <a href="https://twitter.com/yourhandle"> <img src="https://img.shields.io/badge/Twitter-@yourhandle-1DA1F2?style=for-the-badge&logo=twitter" /> </a> </p>
+📊 GitHub Stats
+<p align="center"> <img height="160" src="https://github-readme-stats.vercel.app/api?username=Afroza-Nipa13&show_icons=true&theme=tokyonight" /> <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Afroza-Nipa13&layout=compact&theme=tokyonight" /> </p>
+📌 Featured Projects
+🌍 Zahaba Tours – Tour Booking Platform
 
+A responsive tourism web application built with the MERN stack.
 
-**Social**
-[![GitHub](https://img.shields.io/badge/GitHub-Afroza-black?style=for-the-badge&logo=github)](https://github.com/Afroza-Nipa13)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Afroza-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/afroza-nipa)
-[![Twitter](https://img.shields.io/badge/Twitter-@yourhandle-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/yourhandle)
+<img src="https://raw.githubusercontent.com/Afroza-Nipa13/Afroza-Nipa13/main/screenshot-346.png" width="100%" />
+Tech Stack
 
-**GitHub Stats**
-![Afroza-Nipa13's GitHub stats](https://github-readme-stats.vercel.app/api?username=Afroza-Nipa13&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Afroza-Nipa13&layout=compact&theme=tokyonight)
+✔ React
+✔ Node.js
+✔ Express
+✔ MongoDB
 
----
-## 🔧 Pinned Projects
+🔗 Live Site: https://tour-booking-client.web.app/
 
+🛡️ FIRST Life Insurance Web App
 
+A secure and modern MERN-based insurance management platform.
 
-## 🌍 Zahaba Tours – A Tour Booking Platform
+<img src="https://raw.githubusercontent.com/Afroza-Nipa13/Afroza-Nipa13/main/screenshot-345.png" width="100%" />
+Tech Stack
 
+✔ React
+✔ Node.js
+✔ Express
+✔ MongoDB
 
-![web-site](https://raw.githubusercontent.com/Afroza-Nipa13/Afroza-Nipa13/main/screenshot-346.png)
+🔗 Live Site: https://last-assignment-project.web.app/
 
-This project is a MERN stack e-commerce platform that allows users to browse products, add items to a cart, and complete a checkout process.
+🌿 My Plant Diary
 
-**Technologies Used:**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+A full-stack web app for plant care tracking and management.
 
-**Live Project Link:**
-[View Live Site](https://tour-booking-client.web.app/)
+<img src="https://raw.githubusercontent.com/Afroza-Nipa13/Afroza-Nipa13/main/screenshot-347.png" width="100%" />
+Tech Stack
 
+✔ React
+✔ Node.js
+✔ Express
+✔ MongoDB
 
+🔗 Live Site: https://my-plant-diary.netlify.app/
 
+🎯 Thanks for visiting!
 
-## FIRST Life Insurance Web App
-
-
-![web-site](https://raw.githubusercontent.com/Afroza-Nipa13/Afroza-Nipa13/main/screenshot-345.png)
-
-A secure, responsive, and modern MERN Stack-based life insurance web application that enables users to explore policies, get personalized quotes, apply for policies, manage their dashboard, and make payments online — all while maintaining proper user role access and control.
-
-**Technologies Used:**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-**Live Project Link:**
-[View Live Site]( https://last-assignment-project.web.app/)
-
-
-
-
-## 🌿 My Plant Diary
-
-
-![web-site](https://raw.githubusercontent.com/Afroza-Nipa13/Afroza-Nipa13/main/screenshot-347.png)
-
-A full-stack, mobile-responsive web application that helps plant lovers manage and monitor the care of their indoor and outdoor plants. From watering schedules to plant health, everything is trackable in one place!
-
-**Technologies Used:**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-**Live Project Link:**
-[View Live Site](https://my-plant-diary.netlify.app/)
+⭐ Don't forget to star repositories you like!
