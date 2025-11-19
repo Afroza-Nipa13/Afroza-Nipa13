@@ -2,7 +2,7 @@
 <h2 align="center"><b>MERN Stack Developer | Crafting Modern, Responsive Web Applications</b></h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Afroza-Nipa13/Afroza-Nipa13/main/coverphotoGithub.png" width="100%" />
+  <img src="https://raw.githubusercontent.com/Afroza-Nipa13/Afroza-Nipa13/main/coverphotoGithub.png" width="80%" />
 </p>
 🚀 About Me
 
