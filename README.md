@@ -89,4 +89,4 @@ A full-stack, mobile-responsive web application that helps plant lovers manage a
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 **Live Project Link:**
-[View Live Site](https://thriving-granita-aca4e9.netlify.app/)
+[View Live Site](https://my-plant-diary.netlify.app/)
