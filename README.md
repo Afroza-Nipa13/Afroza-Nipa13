@@ -1,7 +1,7 @@
 <h1 align="center">⭐ <b>Hi there, I'm Afroza Akter!</b> ⭐</h1>
 <h2 align="center"><b>MERN Stack Developer | Crafting Modern, Responsive Web Applications</b></h2>
 
-<img src="https://raw.githubusercontent.com/Afroza-Nipa13/Afroza-Nipa13/main/Mer.png" width="100%" />
+<img src="https://raw.githubusercontent.com/Afroza-Nipa13/Afroza-Nipa13/main/Mer.png" width="100%" height="70%" />
 🚀 About Me
 
 I'm a passionate MERN Stack Developer focused on building modern, responsive, and user-friendly web applications.
